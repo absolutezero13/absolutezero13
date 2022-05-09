@@ -1,6 +1,7 @@
 # Hi, I'm İlker ! 👨‍💻
 
-I'm a passionate Front End Developer (aiming to be Full Stack) and you can find my projects down below.
+
+I'm a full stack developer who is currently working on React/React Native/Node.js mostly.
 
 ## Technologies that I use;
 
