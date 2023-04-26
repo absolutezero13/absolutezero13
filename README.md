@@ -2,7 +2,7 @@
 
 
 
-I'm a mobile developer who is currently working on React Native/Node.js mostly.
+I'm a mobile developer who is currently working on React Native/Node.js mostly. 
 
 ##  Technologies that I use;
 
